@@ -11,8 +11,6 @@
 <header>
   <h1>Subham</h1>
   <p>Developer | Designer | Tech Enthusiast</p>
- https://raw.githubusercontent.com/subhammalla/about-me/main/447875729_8134201459957318_2207910821981485266_n.jpg
-
 </header>
 
 <section>
