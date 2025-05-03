@@ -57,9 +57,9 @@
   <h2>Contact</h2>
   <p>Email: <a href="mailto:subham@example.com">subham@example.com</a></p>
   <div class="social-links">
-    <a href="https://facebook.com/" target="_blank">Facebook</a>
-    <a href="https://instagram.com/" target="_blank">Instagram</a>
-    <a href="https://youtube.com/" target="_blank">YouTube</a>
+    <a href="https://www.facebook.com/subham.malla.89909/" target="_blank">Facebook</a>
+    <a href="https://www.instagram.com/subhammalla_/" target="_blank">Instagram</a>
+    <a href="https://www.youtube.com/@Subham-malla" target="_blank">YouTube</a>
   </div>
 </section>
 
