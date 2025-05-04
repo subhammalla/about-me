@@ -20,7 +20,7 @@
 
 <section>
   <h2>School</h2>
-  <p>I am currently studying at XYZ Secondary School, with a focus on science and technology subjects.</p>
+  <p>I am currently studying at Grukul bidhya sadan, with a focus on technology subjects.</p>
 </section>
 
 <section>
@@ -36,18 +36,13 @@
   <h2>Projects</h2>
   <div class="projects">
     <div class="project-card">
-      <h3>Wallpaper App</h3>
-      <p>A clean and vibrant wallpaper app inspired by Prism.</p>
+      <h3>school website</h3>
+      <p>A clean and vibrant website made using HTML and CSS.</p>
       <a href="#">View Project</a>
     </div>
     <div class="project-card">
-      <h3>Task Manager</h3>
-      <p>Organize daily tasks with priority and reminders.</p>
-      <a href="#">View Project</a>
-    </div>
-    <div class="project-card">
-      <h3>Portfolio Site</h3>
-      <p>Personal website showcasing projects and skills.</p>
+      <h3>wallpaper app</h3>
+      <p> still in development</p>
       <a href="#">View Project</a>
     </div>
   </div>
@@ -55,7 +50,7 @@
 
 <section>
   <h2>Contact</h2>
-  <p>Email: <a href="mailto:subham@example.com">subham@example.com</a></p>
+  <p>Email: <a href="mailto:mallasubham01@gmail.com">mallasubham01@gmail.com</a></p>
   <div class="social-links">
     <a href="https://www.facebook.com/subham.malla.89909/" target="_blank">Facebook</a>
     <a href="https://www.instagram.com/subhammalla_/" target="_blank">Instagram</a>
