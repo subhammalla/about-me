@@ -11,7 +11,7 @@
 <header>
   <h1>Subham</h1>
   <p>Developer | Designer | Tech Enthusiast</p>
-  <img src="447875729_8134201459957318_2207910821981485266_n.jpg" alt="My Picture" style="border-radius: 50%; width: 150px; height:150px;"/>
+  <img src="circular_cropped_sharpened.png" alt="My Picture" style="border-radius: 50%; width: 150px; height:150px;"/>
 </header>
 
 <section>
@@ -22,15 +22,6 @@
 <section>
   <h2>School</h2>
   <p>I am currently studying at Grukul bidhya sadan, with a focus on technology subjects.</p>
-</section>
-
-<section>
-  <h2>Achievements</h2>
-  <ul>
-    <li>Top 10 finalist in National Coding Challenge 2024</li>
-    <li>Created and launched 3+ apps on Play Store</li>
-    <li>Maintained open-source contributions on GitHub</li>
-  </ul>
 </section>
 
 <section>
