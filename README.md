@@ -1,7 +1,6 @@
 # Subham
 
 Developer | Designer | Tech Enthusiast  
-<img src="circular_cropped_sharpened.png" alt="My Picture" height="150">
 
 ## About Me
 Hello! I'm Subham. I enjoy creating clean, responsive, and modern websites and apps. I love learning new tech and bringing ideas to life with code and design.
@@ -12,9 +11,9 @@ I am currently studying at Grukul Bidhya Sadan, with a focus on technology subje
 ## Projects
 - **School Website**  
   A clean and vibrant website made using HTML and CSS.  
-  [View Project](#)
+  [impfile](#)
 
-- **Wallpaper App**  
+- **database management system**  
   Still in development.  
   [View Project](#)
 
